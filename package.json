@@ -1,0 +1,27 @@
+{
+  "name": "vidly-genre-api",
+  "version": "1.0.0",
+  "description": "This is backend service that manage the Genre API of Vidly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/cgrade/vidly-genre-api.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Mr. Grade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgrade/vidly-genre-api/issues"
+  },
+  "homepage": "https://github.com/cgrade/vidly-genre-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^13.7.0",
+    "joy": "^0.1.1"
+  }
+}
